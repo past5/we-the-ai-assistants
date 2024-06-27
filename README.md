@@ -31,7 +31,7 @@ It appears that the Claude 3.5 Sonnet model is tuned with RLHF or wrapped in Sys
 1. Tajfel H.; Turner J. C. (1986). "The social identity theory of intergroup behaviour". In S. Worchel; W. G. Austin (eds.). Psychology of Intergroup Relations. Chicago IL: Nelson-Hall. pp. 7–24.
 
 ### Repository Contents
-- `We_the_AI_Assistants.ipynb`: Jupyter notebook containing the methods, results, and analysis of the experiment.
+- `WetheAIAssistants.ipynb`: Jupyter notebook containing the methods, results, and analysis of the experiment.
 - `outputs`: Folder containing outputs from running the notebook.
 - `SITappliedtoAI.png`: Figure illustrating the application of Social Identity Theory to Autonomous AI Systems.
 
